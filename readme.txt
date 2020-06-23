@@ -1,1 +1,3 @@
-我是苏邦邦大萨达奥所多
+Git is a distributed version control system.
+Git is free software.
+苏邦邦第一次
